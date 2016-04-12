@@ -15,3 +15,6 @@ This is the code that I did for the mini-projects while attending the Rice Unive
 * Mini-project #6 - Blackjack
 * Mini-project #7 - Spaceship
 * Mini-project #8 - RiceRocks (Asteroids)
+
+#####Running the projects
+To run the projects just go to [CodeSkulptor](http://www.codeskulptor.org), paste the code and click the 'run' button.
